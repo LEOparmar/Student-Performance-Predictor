@@ -3,7 +3,7 @@
 A machine learning web application that predicts student exam scores based on study habits, attendance, and sleep patterns.
 
 ## 🚀 Live Demo
-[Click here to view the live app](https://your-app-name.streamlit.app)
+[Click here to view the live app](http://localhost:8501/)
 
 ## 📊 Project Overview
 This project uses Linear Regression to predict student exam scores based on:
